@@ -1,4 +1,4 @@
-# TDS_Election
+# Analysis on Election of India from Year 1962 to 2022
 Data Analytics Project on Election Dataset that contains the Election Data of India from 1952 to 2022
 
 
